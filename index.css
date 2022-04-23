@@ -116,8 +116,7 @@
     margin-right: 15px;
 }
 .super {
-    display: flex;
-    
+    display: flex; 
 }
 .supersimple{
     font-weight: bold;
